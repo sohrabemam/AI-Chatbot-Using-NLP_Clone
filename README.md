@@ -1,4 +1,4 @@
-# AI-Chatbot-Using-NLP_Clone
+# Speech-Enabled Conversational Chatbot
 
 This is a simple ChatBot application that utilizes various libraries such as SpeechRecognition, gTTS, transformers, tensorflow, and PyAudio. The ChatBot can recognize speech, convert text to speech, and engage in conversational interactions using the DialoGPT-medium model from Microsoft.
 
