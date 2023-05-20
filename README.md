@@ -40,8 +40,7 @@ Commit your changes with descriptive messages.
 
 Submit a pull request, explaining the purpose and benefits of your contribution.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
 # Closing Thoughts
 Thank you for using the ChatBot application! If you have any questions or feedback, feel free to reach out. Happy chatting!
+
